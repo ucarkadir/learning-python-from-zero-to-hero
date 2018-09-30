@@ -14,10 +14,8 @@ print(my_electric_car.number_of_wheels) # => 4
 print(my_electric_car.seating_capacity) # => 5
 print(my_electric_car.maximum_velocity) # => 250
 
-'''
-Copy a folder including all subfolders. 
-#XCOPY C:\utils\* D:\Backcup\utils /s /i 
-"It is easier to copy than to think, hence fashion"  ~Wallace Steens 
 
-I like it.
-'''
+# Copy a folder including all subfolders. 
+# #XCOPY C:\utils\* D:\Backcup\utils /s /i 
+# It is easier to copy than to think, hence fashion  ~Wallace Steens 
+# I like it.
